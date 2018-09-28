@@ -15,8 +15,6 @@ btc_address = '1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa'
 #ToDoList:
 #Started with 371 lines
 #cmctop is a complete mess, check if vars are neccesary in for loop.  maybe start over
-#try and make stampcheck functions
-
 
 #Done:
 #make 2 empty lines function lol
