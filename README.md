@@ -2,6 +2,7 @@
 
 Check crypto statistics from the command line.
 It's just a bunch of functions calling different API's
+First large script I made, bit messy, but it works.
 
 Menu:
 1. Global Crypto Statistics
@@ -14,5 +15,3 @@ Menu:
 8. Bitstamp Market Info
 9. Btc Balance Check
 10. Last 30 Days Graph
-
-First large script I made, bit messy, but it works.
