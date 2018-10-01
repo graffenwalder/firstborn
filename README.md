@@ -1,7 +1,7 @@
 # crypto.py
 
 Check crypto statistics from the command line.
-It's just a bunch of functions calling different API's
+It's just a bunch of functions calling different API's.
 First large script I made, bit messy, but it works.
 
 Menu:
